@@ -7,9 +7,9 @@ namespace RISK_LEVEL
 {
     enum
     {
-        RISK_A = 3
+        RISK_A = 3,
         RISK_B = 2,
-        RISK_C = 1,
+        RISK_C = 1
     };
 };
 
